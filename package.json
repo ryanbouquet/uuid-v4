@@ -1,0 +1,14 @@
+{
+  "author": "James Brumond <james@jbrumond.me> (http://jbrumond.me)",
+  "name": "@looker-forks/uuid-v4",
+  "description": "A simple v4 UUID generator",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
